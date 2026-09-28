@@ -1,5 +1,5 @@
 def hello():
-    print("Привет из Git!")
+    print("Привет из главной ветки!")
 
 
 hello()
