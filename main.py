@@ -1,5 +1,5 @@
 def hello():
-    print("Привет из ветки conflict!")
+    print("Привет из главной ветки!")
 
 
 hello()
